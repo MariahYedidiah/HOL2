@@ -1,0 +1,15 @@
+/*Name : 21
+Author : Susmita Roy
+19. Create a FIFO file by
+a. mknod command
+b. mkfifo command
+c. use strace command to find out, which command (mknod or mkfifo) is better.
+c. mknod system call
+d. mkfifo library function
+Date: 23rd Sep, 2024.
+*/
+
+
+a)mknod Jesus p
+b)mkfifo Yeshua
+c)strace mknod mkfifo p
